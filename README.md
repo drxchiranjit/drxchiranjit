@@ -1,6 +1,6 @@
 ### Hi there 👋, Myself Chiranjit Ghosh 
 #### I'm a student of BPharm 
-![I'm a student of BPharm ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtGakFxkdLi2-nZJlQZiJcOrSDvbsCqwqYdmYJmkLuM6zAQ3ZDo1Kt95Qy9UdC3eRLcLVnmVV_ysGG5tAcnojbRnDa1pJN_ciLpL3u6UcL2vK6oAZjvBsTDxhcz2KPJ_J1iK5vYYAAatAzZsJjY2IX23vYjXcSCu9vPl-5D_FTD5s2-UIGVlbKPvQ4/s680/passport%20size%20photo%20.png)
+![I'm a student of BPharm ](https://github.com/drxchiranjit/photos/blob/6b2aabc969e9f20ad846524719685a81bc02a2bf/IMG_20221123_200228.JPG )
 
 Aspiring Industrial Pharmacist for manufacturing of drugs 
 
