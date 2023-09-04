@@ -115,4 +115,3 @@ Feel free to reach out if you have any suggesion on <b>Health-Tech</b> domain
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='60'>](https://www.instagram.com/drxchiranjit?igshid=YmMyMTA2M2Y=/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='80'>](https://drxchiranjit.blogspot.com/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='60'>](https://www.xing.com/profile/Chiranjit_Ghosh3)  
-![Chiranjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=drxchiranjit&show_icons=true&theme=radical)
