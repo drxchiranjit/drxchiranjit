@@ -36,6 +36,8 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects. Feel
      <li>Clinical Data Analyst</li>
      <li>Healthcare Data Analyst</li>
      <li>Data Analyst</li>
+      <li>Clinical Data Management</li>
+      <li>Clinical Research Coordinator </li>
     </ul>
   </section>
 
@@ -58,7 +60,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects. Feel
         <l>Course:</l> Bachelor of Pharmacy(B.Pharm)<br>
         <l>Institution:</l> Netaji Subhas Chandra Bose Institute of Pharmacy <br>
         <l>University:</l> Maulana Abul Kalam Azad University of Technology <br>
-        <l>Year of Passing:</l> 2023
+        <l><strong>Year of Passing:</strong></l> 2023
       </li>
       <li>
         <l>Course:</l> Higher Secondary<br>
