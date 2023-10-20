@@ -53,7 +53,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects. Feel
         <l><strong>Year of Passing:</strong></l> 2023
       </li>
      
-    </ul>
+   
   </section>
 
   <section>
