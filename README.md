@@ -27,29 +27,19 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects. Feel
     </ul>
   </section>
 
-  <section>
-    <h2>Area of Interest</h2>
-    <ul>
-     <li>Statistical Programmer</li>
-     <li>SAS Programmer</li>
-     <li>Clinical SAS Programmer</li>
-     <li>Clinical Data Analyst</li>
-     <li>Healthcare Data Analyst</li>
-     <li>Data Analyst</li>
-      <li>Clinical Data Management</li>
-      <li>Clinical Research Coordinator </li>
-    </ul>
-  </section>
+  
 
  
 
   <section>
     <h2>Technical Skills:</h2>
     <ul>
-      <li>Microsoft Excel</li>
+      <li>Excel</li>
       <li>SQL</li>
       <li>PowerBI</li>
-      <li>SAS Programming</li>
+      <li>HTML</li>
+      <li>Python</li>
+      <li>SAS</li>
     </ul>
   </section>
 
@@ -62,12 +52,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects. Feel
         <l>University:</l> Maulana Abul Kalam Azad University of Technology <br>
         <l><strong>Year of Passing:</strong></l> 2023
       </li>
-      <li>
-        <l>Course:</l> Higher Secondary<br>
-        <l>Institution:</l> Lakhuria High School<br>
-        <l>Board:</l> West Bengal Council of Higher Secondary Education<br>
-        <strong>Year of Passing:</strong> 2014
-      </li>
+     
     </ul>
   </section>
 
