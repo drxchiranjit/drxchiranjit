@@ -34,12 +34,12 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects. Feel
   <section>
     <h2>Technical Skills:</h2>
     <ul>
+      <li>LIMS</li>
       <li>Excel</li>
-      <li>SQL</li>
+      <li>Word</li>
+      <li>Outlook</li>
       <li>PowerBI</li>
       <li>HTML</li>
-      <li>Python</li>
-      <li>SAS</li>
     </ul>
   </section>
 
