@@ -87,12 +87,6 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects. Feel
 The Formulation and Evaluation of Transdermal Patch of Diclofenac Sodium. It includes literature review, Drug profile, formulation and evaluation of Diclofenac Sodium.
 [Project PPT](https://1drv.ms/p/s!AkbYl6Fo7YHEggLuZ95vWAgOR0ja)
 
-## Project 2: To be updated 
-### ongoing project 
-
-[Project](https://drxchiranjit.blogspot.com/)
-
-
 Feel free to reach out if you have any suggesion on <b>Health-Tech</b> domain
 
 ## Thank You for visiting 
